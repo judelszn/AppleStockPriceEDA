@@ -21,19 +21,18 @@ To get started with the project, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd apple_stock_eda
+   cd AppleStockPriceEDA
    ```
    
 3. Open and run the `Stock_Market_ Analysis_Apple_Inc.ipynb` notebook using Jupyter Notebook or JupyterLab.
 
 ## Project Objectives:
-- Gather historical stock price data for Apple INC. from reliable financial data sources.
+- Gather historical stock price data for Apple Inc. from reliable financial data sources.
 - Clean and preprocess the data to ensure consistency and quality.
 - Explore the data through statistical analysis and visualizations to uncover trends and patterns.
 - Conduct feature engineering to derive additional insights from the data.
 - Analyze correlations between different variables within the dataset.
-- Identify and examine outliers to understand their significance.
-- Provide actionable insights and recommendations based on the analysis.
+- Test the distribution of data
 
 ## Technologies Used:
 - Python
